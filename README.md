@@ -85,6 +85,14 @@ nuwa-skill/
     └── validation-guide.md           # 质量验证与测试指南
 ```
 
+## 版权声明与致谢
+
+**特别声明**：本仓库是基于原创者 **花叔 (Huashu / alchaincyf)** 的创意复刻版本。
+- **原创作者**：[花叔 Huashu](https://github.com/alchaincyf)
+- **原创仓库**：[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
+
+本复刻版本仅用于学习和交流，所有核心创意和架构设计均归原创者所有。
+
 ## 许可证
 
 MIT License - 自由使用、修改和分发。
